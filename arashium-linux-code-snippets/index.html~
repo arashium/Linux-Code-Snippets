@@ -442,7 +442,7 @@
 	</tr>
 	<tr>
 		<td>user mount disk at startup</td>
-		<td>at ~/.profile<br>/usr/bin/udisks --mount /dev/disk/by-uuid/008265412262B0D0</td>
+		<td>at ~/.profile<br>/usr/bin/udisks --mount /dev/disk/by-uuid/008266682266E8E0</td>
 	</tr>
 	<tr>
 		<td>remove file duplication</td>
